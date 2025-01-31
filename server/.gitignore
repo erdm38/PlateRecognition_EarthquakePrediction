@@ -1,0 +1,30 @@
+# Node.js modülleri
+node_modules/
+
+# Python dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Log dosyaları
+*.log
+logs/
+debug.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ortam değişkenleri
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Veri ve model dosyaları
+output.csv
+uploads/
+*.pkl
+*.json
